@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin: 30px
+}
+
+.body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("fondo.jpg");
+    background-size: 100%
+}
+
+#clase1{
+    border: 10px green solid;
+}
+
+#clase2{
+    border: 10px red solid;
+}
+
+#clase3{
+    border: 10px skyblue solid;
+}
+
+#clase4{
+    border: 10px yellow solid;
+}
+
+#clase5{
+    border: 10px blueviolet solid;
+}
+
+#clase6{
+    border: 10px yellowgreen solid;
+}
+
+#clase7{
+    border: 10px orangered solid;
+}
+
+#letraclase1{
+    color: green
+}
+
+#letraclase2{
+    color: red
+}
+
+#letraclase3{
+    color: skyblue
+}
+
+#letraclase4{
+    color: yellow
+}
+
+#letraclase5{
+    color: blueviolet
+}
+
+#letraclase6{
+    color: yellowgreen
+}
+
+#letraclase7{
+    color: orangered
+}
+
+p{
+    color: white
+}

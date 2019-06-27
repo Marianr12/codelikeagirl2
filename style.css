@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: rebeccapurple;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin: 30px
+}
+.body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("fondo.jpg");
+    background-size: 100%
+}
+h3{
+    text-align: center;
+    color: #73FF32
+}
+#textocarousel{
+    text-align: justify;
+}
+
+#Introvideo{
+    text-align: justify;
+}
+
+#lanzamientovideo{
+    object-position: 90%;
+}
+
+p{
+    color: white
+}
